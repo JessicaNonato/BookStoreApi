@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BookStoreApi",
+    "\\BookStoreApi\\BookStoreApi"
   ],
   "PreviewInSolutionExplorer": false
 }
